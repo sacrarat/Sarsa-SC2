@@ -24,3 +24,7 @@ The above command accepts command line arguments:
 | `--test_id` | name for test run and result file prefix |
 | `--train` | to launch fresh training |
 | `--aggression` | aggression value to use for reward function |
+
+
+## Results
+https://i.cs.hku.hk/fyp/2018/fyp18045/
